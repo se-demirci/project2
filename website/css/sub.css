@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+section#sub-container{
+	margin-top:35px;
+}
+section#sub-container section#sub-title h1{
+	font-family:'Roboto', sans-serif;
+	font-size:25px;
+	font-weight:700;
+	color:#000;
+	margin-bottom:25px;
+}
+.margin-top20{
+	margin-top:20px;
+}
+section#sub-container .product-container{
+	position:relative;
+	margin:15px auto;
+}
+section#sub-container .product-container img{
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	display:block;
+}
+section#sub-container .product-container h3{
+	font-family:'Roboto', sans-serif;
+	font-size:20px;
+	font-weight:700;
+	text-align:center;
+	color:#000;
+	margin-top:25px;
+}
+section#sub-container .product-container p{
+	font-family:'Roboto', sans-serif;
+	font-size:17px;
+	font-weight:300;
+	line-height:23px;
+	text-align:center;
+	color:#000;
+}
+section#sub-container .product-container a.detail{
+	width:101px;
+	height:39px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-family:'Roboto', sans-serif;
+	font-size:17px;
+	font-weight:400;
+	text-align:center;
+	color:#fff;
+	background:#2a2b2c;
+	border-radius:5px;
+	text-decoration:none;
+	margin:0 auto;
+}
+section#sub-container #contact-form input, section#sub-container #contact-form textarea{
+	border:1px solid #2c82c9;
+	border-radius:5px;
+}
+section#sub-container #contact-form .fa{
+	color:#2c82c9;
+}
+section#sub-container #contact-form h3{
+	font-family:'Roboto', sans-serif;
+	font-size:20px;
+	color:#000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
