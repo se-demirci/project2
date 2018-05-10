@@ -1,0 +1,448 @@
+#navbarNav ul li .nav-link{
+	font-family: 'Roboto Slab', serif;
+	color:#74726e;
+	letter-spacing:2px;
+	font-size:14px;
+    transition:all .5s ease;
+    padding-left:20px;
+
+}
+
+
+.navbar-toggler:focus, .navbar-toggler:hover{
+    background-color: #ddd;
+	
+}
+
+
+
+
+#navbarNav ul li:hover .nav-link{
+background-color:#000;
+color:#fff;
+padding-left:50px;
+padding-right:50px;
+}
+
+
+
+
+.navbar-brand{
+		font-family: 'Roboto Slab', serif;
+	color:#500d16;
+	letter-spacing:3px;
+}
+
+.navbar-brand:hover{
+color:#500d16;
+
+	
+}
+
+.carousel-indicators li:hover{
+
+cursor:pointer;
+}
+
+section#box .col-md-4 .icons .fa-map-marker ,.fa-car,.fa-phone{
+	font-size:80px;
+	border:none;
+	margin:0 auto;
+	display:block;
+	text-align:center;
+	padding-top:35px;
+	color:#0099da;
+	
+}
+
+
+section#box .col-md-4 h3, p{
+	text-align:center;
+	padding-top:15px;
+	font-family: 'Roboto Slab', serif;
+	font-size:17px;
+}
+
+
+section#box .col-md-4 p{
+	font-size:14px;
+	
+}
+
+
+
+section#featured-service .featured-top{
+	font-family: 'Roboto Slab', serif;
+	text-align:center;
+	padding-top:35px;
+	width:280px;
+	
+margin:0 auto;
+
+
+}
+
+section#featured-service .featured-top h3{
+	background-color:#500d16;
+	padding:30px 15px;
+	color:#fff;
+	font-size:21px;
+		
+	transition:all .5s ease;
+}
+
+
+section#featured-service .featured-top h3:hover{
+	
+background-color:#fff;
+color:#500d16;
+
+cursor:pointer;
+
+}
+
+
+.card{
+	
+	margin-top:35px;
+}
+
+
+
+.card {
+	
+	text-align:center;
+
+border:1px solid #500d16;
+}
+
+
+.card .btn:active{
+	outline:none;
+	
+}
+
+.card .btn{
+	
+	background-color:#500d16;
+	border:none;
+	
+}
+.card .btn:hover{
+	
+	background-color:#fff;
+color:#500d16;
+
+cursor:pointer;
+	
+}
+
+
+
+section#welcometocar{
+	
+	text-align:center;
+	padding-top:35px;
+	
+}
+
+
+section#welcometocar .welto h3{
+	background-color:#500d16;
+	padding:30px 15px;
+	color:#fff;
+	font-size:21px;
+		width:260px;
+	transition:all .5s ease;
+	margin:0 auto;
+	margin-top:70px;
+	font-family: 'Roboto Slab', serif;
+}
+section#welcometocar .welto p{
+	font-size:17px;
+	font-family: 'Roboto Slab', serif;
+	
+	
+}
+section#welcometocar .welto h3:hover{
+	background-color:#fff;
+color:#500d16;
+
+cursor:pointer;
+	
+	
+}
+
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../img/oliur-rahman-123819-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 350px;
+    padding-top: 50px;
+	
+}
+
+
+section#box .col-md-4{
+	border:1px solid #000;
+	margin-top:35px;
+	
+    box-shadow: 1px 2px #888888;
+	
+}
+
+
+footer{
+	
+	background-color:#500d16;
+	color:#95a5a6;
+	margin-top:35px;
+	text-align:center;
+}
+
+
+
+footer h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size:21px;
+	
+}
+
+
+footer h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size:18px;
+	
+}
+footer p{
+	font-family: 'Roboto Slab', serif;
+	font-size:14px;
+	letter-spacing:1px;
+	
+}
+
+footer .col-md-4{
+	
+	padding:70px 0;
+	
+}
+
+
+footer .col-md-4 ul li{
+	list-style:none;
+	
+	padding-top:8px;
+	font-size:14px;
+	transition:all .6s ease;
+
+}
+
+
+footer .col-md-4 ul li a{
+	text-decoration:none;
+color:#95a5a6;
+	transition:all .6s ease;
+}
+
+footer .col-md-4 ul li a:hover{
+	
+color:#fff;
+}
+
+footer .col-md-4 ul li:hover{
+	color:#fff;
+
+}
+
+
+footer .col-md-4 .social  a{
+	text-decoration:none;
+	color:#95a5a6;
+	
+}
+footer .col-md-4 .social .fa{
+	font-size:31px;
+	padding-left:10px;
+	margin-top:20px;
+	
+	
+}
+
+
+footer .col-md-4 .social .fa:hover{
+	color:#fff;
+	
+	
+}
+
+
+
+
+section#cars{
+	
+	 background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../img/jiafeng-wang-193724-unsplash.jpg");
+	    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 350px;
+    padding-top: 50px;
+	
+}
+
+
+section#cars h3{
+	color:#fff;
+	font-family: 'Roboto Slab', serif;
+	font-size:81px;
+margin-top:50px;
+	letter-spacing:2px;
+}
+
+
+
+section#cars-gallery{
+	
+	margin-top:50px;
+	
+}
+
+
+
+section#inspect{
+	
+	padding-top:35px;
+	
+}
+
+
+section#inspect .inspect-cars h3{
+	margin:0 auto;
+	background-color:#500d16;
+	    padding: 30px 15px;
+		font-size: 21px;
+		color: #fff;
+		    transition: all .5s ease;
+			width:280px;
+			cursor:pointer;
+			font-family: 'Roboto Slab', serif;
+	
+}
+
+
+
+section#inspect .inspect-cars h3:hover{
+	background-color:#fff;
+	color:#500d16;
+	
+	
+}
+
+section#about{
+	
+	margin-top:80px;
+	
+}
+
+
+
+section#about h3{
+	text-align:center;
+	color:#500d16;
+	font-family: 'Roboto Slab', serif;
+	font-size:31px;
+margin-top:10px;
+	letter-spacing:2px;
+}
+
+
+
+section#about p{
+	font-size:18px;
+	font-family: 'Roboto Slab', serif;
+	color:#500d16;
+	text-align:left;
+}
+
+
+
+
+.margin-top20{margin-top:20px;}
+
+
+
+#sub-content h3 {
+	font-size:34px;
+	font-family: 'Roboto Slab', serif;
+	color:#500d16;
+	text-align:center;
+	
+	
+}
+
+
+
+@media (max-width:768px){
+	
+	.m20left{
+	padding-left:28px!important;
+	
+}
+	
+	
+}
+
+@media (min-width:768px) and(max-width:991px){
+	section#about p{
+		font-size:13px;
+		
+		
+	}
+	
+.m20left{
+	padding-left:37px!important;
+	
+}
+	
+}
+
+
+
+
+@media (min-width:992px) and (max-width:1024px){
+	section#about p{
+		font-size:11px;
+		
+		
+	}
+	.ml20left{
+	margin-left:-1px;
+	
+}
+
+
+	
+}
+
+@media (min-width:1024px) and (max-width:1200px){
+	section#about p{
+		font-size:15px;
+		
+		
+	}
+
+	.m20left{
+	padding-left:38px!important;
+	
+}
+
+}
+
+
+
+
+
+
+
